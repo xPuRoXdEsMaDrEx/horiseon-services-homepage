@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* Main image below header and navigatio links */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +60,7 @@ p {
     background-position: center;
 }
 
+/* Image locations for main focus content */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,6 +71,7 @@ p {
     margin-left: 25px;
 }
 
+/* Main focus properties */
 .content {
     width: 75%;
     display: inline-block;
@@ -93,6 +96,7 @@ p {
     font-size: 36px;
 }
 
+/* Aside properties */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -120,6 +124,7 @@ p {
     max-width: 150px;
 }
 
+/* Footer properties */
 footer {
     padding: 30px;
     clear: both;
