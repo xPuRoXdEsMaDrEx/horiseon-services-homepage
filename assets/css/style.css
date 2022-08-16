@@ -19,15 +19,11 @@ header {
     display: block;
 }
 
-h1 {
+header h1 {
     font-size: 48px;
 }
 
-.seo {
-    color: #d9dcd6;
-}
-
-li {
+header li {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -38,6 +34,9 @@ li {
     position: relative;
     bottom: 50px
 }
+
+.seo {
+    color: #d9dcd6;
 
 /* Header link properties */
 a {
@@ -71,7 +70,7 @@ p {
     margin-left: 25px;
 }
 
-/* Main focus properties */
+/* Main focus Content properties */
 .content {
     width: 75%;
     display: inline-block;
@@ -96,7 +95,7 @@ p {
     font-size: 36px;
 }
 
-/* Aside properties */
+/* Aside properties, Results */
 .benefits {
     margin-right: 20px;
     padding: 20px;
