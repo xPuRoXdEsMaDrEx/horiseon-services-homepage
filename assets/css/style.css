@@ -23,6 +23,10 @@ header h1 {
     font-size: 48px;
 }
 
+.seo {
+    color: #d9dcd6;
+}
+
 header li {
     padding-top: 15px;
     margin-right: 20px;
@@ -35,9 +39,6 @@ header li {
     bottom: 50px
 }
 
-.seo {
-    color: #d9dcd6;
-
 /* Header link properties */
 a {
     color: #ffffff;
@@ -49,7 +50,7 @@ p {
     font-size: 16px;
 }
 
-/* Main image below header and navigatio links */
+/* Main image below header and navigation links */
 .hero {
     height: 800px;
     width: 100%;
@@ -112,7 +113,7 @@ p {
     color: #ffffff;
 }
 
-.results h3 {
+.results h2 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -131,6 +132,6 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer h3 {
     font-size: 20px;
 }
