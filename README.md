@@ -16,13 +16,13 @@ The goal was to optimize the website for search engine by meeting accessability 
 
 ## Installation
 
-Copy project from GitHub repo files here, sdjklfjaslkj, and upload them to a production server.
+Copy project from GitHub repo files here, sdjklfjaslkj, and upload them to a production server of your choicegit.
 
 ## Usage
 
 The homepage is intended to emphasize a companies ability to improve ones online standings in a variety of ways and the results of the applied services. ONLY for screens with 1024px or greater!
 
-Screenshot is not to scale, just for referance purposes.
+Screenshot is just for referance purposes.
 
 ![alt text](assets/images/screenshot-horiseon.png)
 

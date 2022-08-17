@@ -46,13 +46,10 @@ a {
 }
 
 /* Main image below header and navigation links */
-.hero {
-    height: 800px;
+.hero img {
+    height: 100%;
     width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
+    margin-top: -25px;
 }
 
 /* Main focus Content properties */
@@ -60,6 +57,7 @@ a {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    margin: 25px;
 }
 
 .main-focus {
@@ -101,6 +99,7 @@ p {
 /* Aside properties, Results */
 .benefits {
     margin-right: 20px;
+    margin-top: 25px;
     padding: 20px;
     clear: both;
     float: right;
