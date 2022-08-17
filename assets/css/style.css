@@ -27,6 +27,7 @@ header h1 {
     color: #d9dcd6;
 }
 
+/* Header link properties */
 header li {
     padding-top: 15px;
     margin-right: 20px;
@@ -39,15 +40,9 @@ header li {
     bottom: 50px
 }
 
-/* Header link properties */
 a {
     color: #ffffff;
     text-decoration: none;
-}
-
-/* Paragraph properties for search engine opt, online rep management, & social media marketing content sections */
-p {
-    font-size: 16px;
 }
 
 /* Main image below header and navigation links */
@@ -58,17 +53,6 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-}
-
-/* Image locations for main focus content */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
 }
 
 /* Main focus Content properties */
@@ -87,13 +71,31 @@ p {
     color: #ffffff;
 }
 
+/* Main focus header properties */
+.main-focus h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Image locations for main focus content */
+
 .main-focus img {
     max-height: 200px;
 }
 
-.main-focus h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* Paragraph properties for search engine opt, online rep management, & social media marketing content sections */
+p {
+    font-size: 16px;
 }
 
 /* Aside properties, Results */
