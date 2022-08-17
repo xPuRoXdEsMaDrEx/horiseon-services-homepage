@@ -16,7 +16,7 @@ The goal was to optimize the website for search engine by meeting accessability 
 
 ## Installation
 
-Copy project from GitHub repo files here, sdjklfjaslkj, and upload them to a production server of your choicegit.
+Copy project from GitHub repo files here, https://github.com/xPuRoXdEsMaDrEx/challenge-1.git, and upload them to a production server of your choice.
 
 ## Usage
 
@@ -28,11 +28,11 @@ Screenshot is just for referance purposes.
 
 ## Deployed Site
 
-- 
+- https://xpuroxdesmadrex.github.io/challenge-1/
 
 ## GitHub Link
 
--
+- https://github.com/xPuRoXdEsMaDrEx/challenge-1
 
 ## Referances
 
