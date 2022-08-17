@@ -16,7 +16,7 @@ The goal was to optimize the website for search engine by meeting accessability 
 
 ## Installation
 
-Copy project from GitHub repo files here, https://github.com/xPuRoXdEsMaDrEx/challenge-1.git, and upload them to a production server of your choice.
+Copy project from GitHub repo files here, https://github.com/xPuRoXdEsMaDrEx/horiseon-services-homepage.git, and upload them to a production server of your choice.
 
 ## Usage
 
@@ -28,11 +28,11 @@ Screenshot is just for referance purposes.
 
 ## Deployed Site
 
-- https://xpuroxdesmadrex.github.io/challenge-1/
+- https://xpuroxdesmadrex.github.io/horiseon-services-homepage/
 
 ## GitHub Link
 
-- https://github.com/xPuRoXdEsMaDrEx/challenge-1
+- https://github.com/xPuRoXdEsMaDrEx/horiseon-services-homepage
 
 ## Referances
 
