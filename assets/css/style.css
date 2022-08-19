@@ -4,13 +4,30 @@
     padding: 0;
     margin: 0;
 }
+/* Element Style, header links */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
 
-/* Applied background color light gray & white tone to entire site */
+/* Element style, applied background color light gray & white tone to entire site */
 body {
     background-color: #d9dcd6;
 }
 
-/* Header properties */
+/* Footer properties Element Style */
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h3 {
+    font-size: 20px;
+}
+
+/* Element Style header properties */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,11 +40,7 @@ header h1 {
     font-size: 48px;
 }
 
-.seo {
-    color: #d9dcd6;
-}
-
-/* Header link properties */
+/* Element Style, Header link properties */
 header li {
     padding-top: 15px;
     margin-right: 20px;
@@ -40,63 +53,12 @@ header li {
     bottom: 50px
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-/* Main image below header and navigation links */
-.hero img {
-    height: 100%;
-    width: 100%;
-    margin-top: -25px;
-}
-
-/* Main focus Content properties */
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-    margin: 25px;
-}
-
-.main-focus {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* Main focus header properties */
-.main-focus h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* Image locations for main focus content */
-
-.main-focus img {
-    max-height: 200px;
-}
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-/* Paragraph properties for search engine opt, online rep management, & social media marketing content sections */
+/* Element Style, Paragraph properties for search engine opt, online rep management, & social media marketing content sections */
 p {
     font-size: 16px;
 }
 
-/* Aside properties, Results */
+/* Class Style, Aside properties, Results */
 .benefits {
     margin-right: 20px;
     margin-top: 25px;
@@ -109,6 +71,54 @@ p {
     background-color: #2589bd;
 }
 
+/* Class Style, Main focus Content properties */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+    margin: 25px;
+}
+
+/* Class Style, Main focus image locations */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* Class Style, Main image below header and navigation links */
+.hero img {
+    height: 100%;
+    width: 100%;
+    margin-top: -25px;
+}
+
+/* Class Style, Main focus content */
+.main-focus {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* Class Style, Main focus header properties */
+.main-focus h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Class Style, Main focus image properties */
+.main-focus img {
+    max-height: 200px;
+}
+
+/* Class Style, Results properties */
 .results {
     margin-bottom: 32px;
     color: #ffffff;
@@ -125,14 +135,7 @@ p {
     max-width: 150px;
 }
 
-/* Footer properties */
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-footer h3 {
-    font-size: 20px;
+/* Class Style, Main header properties, Horiseon */
+.seo {
+    color: #d9dcd6;
 }
